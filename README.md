@@ -1,4 +1,4 @@
 # MyWorkStation
-This is my personal project`s repository.
-This repository include practise project and new implementation part. it does not specify any particular technology.
+This is my personal repository.
+This repository include practise project and new implementation part.
 it can be include any number of project.
